@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/bgm.mp3</file>
+        <file>assets/images/ambient64.png</file>
+        <file>assets/images/docks64.png</file>
+        <file>assets/images/effects128.png</file>
+        <file>assets/images/enemy128.png</file>
+        <file>assets/images/interact64.png</file>
+        <file>assets/images/interface24.png</file>
+        <file>assets/images/island1280.png</file>
+        <file>assets/images/objects32.png</file>
+        <file>assets/images/objects64.png</file>
+        <file>assets/images/player64.png</file>
+        <file>assets/images/ripple96.png</file>
+        <file>assets/images/sandbar256.png</file>
+        <file>assets/images/slowdown64.png</file>
+        <file>assets/images/surfboard64.png</file>
+        <file>assets/images/surfer64.png</file>
+        <file>assets/images/water256.png</file>
+        <file>assets/images/favicon.ico</file>
+        <file>assets/images/favicon.png</file>
+        <file>assets/images/bg1280.png</file>
+        <file>assets/images/Avatar.jpg</file>
+    </qresource>
+</RCC>
